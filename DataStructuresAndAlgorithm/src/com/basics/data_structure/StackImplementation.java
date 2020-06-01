@@ -70,5 +70,6 @@ public class StackImplementation {
 		
 		System.out.println(stackImp.peak());
 	}
+	
 
 }
